@@ -1,6 +1,6 @@
 cask "purevalet" do
-  version "0.5.2"
-  sha256 "fe8a6220f157dbd62cec135e5ee7115430e04c95479ed875a8173e3009e5d6bb"
+  version "0.5.3"
+  sha256 "ce2c830bed6428efd725e59a8c34f08bce5d3dee80fef0f2783970c4e548fa52"
 
   url "https://github.com/aubinvan/purevalet/releases/download/v#{version}/PureValet-#{version}.dmg"
   name "PureValet"
